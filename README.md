@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 ![Neptoo's github stats](https://github-readme-stats.vercel.app/api?username=neptoo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-🌱 I’m currently learning front end programming
-🤔 I’m interested in coding, britpop music, lgbtq+ issues.
-💬 Contact me with: 
-foxmail: elaine.wuqi@foxmail.com
+
+I've always been passionate about coding and English-learining.\
+So I upload my tools here.
+
+📧 If you want to contact me, you can do it here :
+- Foxmail : elaine.wuqi@foxmail.com
