@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 I'm neptoo
 
 #### Me
-- 🔭 2020 Goals: Contribute more to Open Source projects.
+- 🔭 2021 Goals: Contribute more to Open Source projects.
 - 🤔 I’m currently working on front-end developing.
 - 👯 I’m looking to collaborate with other creative coders.
 - ⚡ Fun fact: I love BRITPOP
