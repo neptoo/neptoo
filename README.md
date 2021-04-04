@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm neptoo
 
+<img src="https://komarev.com/ghpvc/?username=neptoo&label=Profile%20views&color=0e75b6&style=flat" alt="neptoo" />
+
 #### Me
 - 🔭 2021 Goals: Contribute more to Open Source projects.
 - 🤔 I’m currently working on front-end developing.
