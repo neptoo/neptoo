@@ -32,4 +32,4 @@ I've always been passionate about coding and English-learining.\
 So I upload my tools here.
 
 📧 If you want to contact me, you can do it here :
-- Foxmail : elaine.wuqi@foxmail.com
+- Email : heywuq@outlook.com
