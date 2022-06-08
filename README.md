@@ -32,4 +32,5 @@ I've always been passionate about coding and English-learining.\
 So I upload my tools here.
 
 📧 If you want to contact me, you can do it here :
-- Email : heywuq@outlook.com
+
+- Email : heywuq@outlook.com (To verify you are not a bot, please let me know where you saw my email and why you are contacting me.)
