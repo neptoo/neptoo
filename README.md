@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=neptoo&label=Profile%20views&color=0e75b6&style=flat" alt="neptoo" />
 
 #### Me
-- 🔭 2021 Goals: Contribute more to Open Source projects.
+- 🔭 2022 Goals: Contribute more to Open Source projects and update my blog more.
 - 🤔 I’m currently working on front-end developing.
 - 👯 I’m looking to collaborate with other creative coders.
 - ⚡ Fun fact: I love BRITPOP
@@ -34,3 +34,4 @@ So I upload my tools here.
 📧 If you want to contact me, you can do it here :
 
 - Email : heywuq@outlook.com (To verify you are not a bot, please let me know where you saw my email and why you are contacting me.)
+- Or you can create an issue under my repository, I'll contact you asap ... (Recommend this way)
