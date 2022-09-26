@@ -35,3 +35,7 @@ So I upload my tools here.
 
 - Email : heywuq@outlook.com (To verify you are not a bot, please let me know where you saw my email and why you are contacting me.)
 - Or you can create an issue under my repository, I'll contact you asap ... (Recommend this way)
+
+#### Tech Stack
+
+![VUE](https://img.shields.io/badge/-VUE-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
