@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=neptoo&label=Profile%20views&color=0e75b6&style=flat" alt="neptoo" />
 
 #### Me
-- 🔭 2022 Goals: Contribute more to Open Source projects and update my blog more.
+- 🔭 2023 Goals: Contribute more to Open Source projects and update my blog more.
 - 🤔 I’m currently working on front-end developing.
 - 👯 I’m looking to collaborate with other creative coders.
 - ⚡ Fun fact: I love BRITPOP
