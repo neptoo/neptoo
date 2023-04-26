@@ -15,6 +15,8 @@
 
 ![Neptoo's github stats](https://github-readme-stats.vercel.app/api?username=neptoo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+![neptoo profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neptoo&theme=nord_bright)
+
 I've always been passionate about coding and English-learining.\
 So I upload my tools here.
 
