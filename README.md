@@ -20,9 +20,7 @@
 I've always been passionate about coding and English-learining.\
 So I upload my tools here.
 
-📧 If you want to contact me, you can do it here :
-
-- Email : heywuq@outlook.com (Please note the reason you are contacting me.)
+📧 If you wish to get in touch with me, feel free to reach out via email at `heywuq@outlook.com` (Kindly include the reason for your contact in your message.
 
 
 
