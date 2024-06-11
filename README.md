@@ -5,28 +5,32 @@
 
 <img src="https://komarev.com/ghpvc/?username=neptoo&label=Profile%20views&color=0e75b6&style=flat" alt="neptoo" />
 
-#### Me
-- 🔭 2023 Goals: Contribute more to Open Source projects and update my blog more.
-
-- 🤔 I’m currently working on front-end developing.
-
+#### About Me
+- 🤔 I'm a self-taught passionate FrontEnd developer from China ᴄɴ
 - 👯 I’m looking to collaborate with other creative coders.
+- 💬 Ask me about anything [here](https://github.com/neptoo/neptoo/issues)
 
+##  My Github Stats
+
+
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=neptoo&langs_count=10&custom_title=Top%20%Languages&layout=compact)
 
 ![Neptoo's github stats](https://github-readme-stats.vercel.app/api?username=neptoo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![neptoo profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neptoo&theme=nord_bright)
 
-I've always been passionate about coding and English-learining.\
-So I upload my tools here.
+[![trophy](https://github-profile-trophy.vercel.app/?username=neptoo&margin-w=15)](https://github.com/neptoo/github-profile-trophy)
 
-📧 If you wish to get in touch with me, feel free to reach out via email at `heywuq@outlook.com` (Kindly include the reason for your contact in your message.
 
+
+I've always been interested in coding and learning English, and I'm happy to contribute to open source if it helps.\
+So I upload my projects here.
 
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming and markup languages
+### 👩‍💻 Programming and markup languages
 
 ![VUE](https://img.shields.io/badge/-VUE-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
 
