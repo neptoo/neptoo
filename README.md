@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<img src="https://komarev.com/ghpvc/?username=neptoo&label=Profile%20views&color=0e75b6&style=flat" alt="neptoo" />
+<img src="https://komarev.com/ghpvc/?username=neptoo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="neptoo" />
+
 
 #### About Me
 - 🤔 I'm a self-taught passionate FrontEnd developer from China ᴄɴ
