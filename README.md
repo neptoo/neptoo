@@ -15,10 +15,6 @@
 
 
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=neptoo&langs_count=10&custom_title=Top%20%Languages&layout=compact)
-
-![Neptoo's github stats](https://github-readme-stats.vercel.app/api?username=neptoo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 ![neptoo profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neptoo&theme=nord_bright)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neptoo&margin-w=15)](https://github.com/neptoo/github-profile-trophy)
