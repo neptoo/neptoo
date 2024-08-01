@@ -7,6 +7,7 @@
 
 
 #### About Me
+- 👩‍💻 I want to be confident in the field I love.
 - 🤔 I'm a self-taught passionate FrontEnd developer from China ᴄɴ
 - 👯 I’m looking to collaborate with other creative coders.
 - 💬 Ask me about anything [here](https://github.com/neptoo/neptoo/issues)
