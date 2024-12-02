@@ -14,7 +14,7 @@
 
 ##  My Github Stats
 
-
+![Neptoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptoo\&rank_icon=percentile\&bg_color=30,4e54c8,8f94fb\&title_color=fff\&text_color=fff)
 
 ![neptoo profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neptoo&theme=nord_bright)
 
