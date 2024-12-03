@@ -14,9 +14,12 @@
 
 ##  My Github Stats
 
-![Neptoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptoo\&rank_icon=percentile\&bg_color=30,4e54c8,8f94fb\&title_color=fff\&text_color=fff)
-
 ![neptoo profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neptoo&theme=nord_bright)
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neptoo&show_icons=true&rank_icon=percentile&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neptoo&hide_border=true" />   
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neptoo&margin-w=15)](https://github.com/neptoo/github-profile-trophy)
 
