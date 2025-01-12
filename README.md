@@ -20,9 +20,6 @@
   <a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=neptoo&show_icons=true&rank_icon=percentile&count_private=true" />
 </a>
-<a>
-  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neptoo&hide_border=true" />   
-</a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neptoo&margin-w=15)](https://github.com/neptoo/github-profile-trophy)
