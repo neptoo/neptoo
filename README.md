@@ -1,15 +1,16 @@
 <h3 align="center">
-  Welcome to my profile!
+  Hallo! You can call me vi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=neptoo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="neptoo" />
 
 
-#### About Me
-- 👩‍💻 I want to be confident in the field I love.
-- 🤔 I'm a self-taught passionate FrontEnd developer from China ᴄɴ
-- 👯 I’m looking to collaborate with other creative coders.
+#### Currently I'm
+- 👩‍💻 a full-time front-end software engineer
+- 🐳 working on vue+javascript stuff
+- 🔤 learning Deutsch
+- 🐈 taking care of a cat that means a lot to me
 - 💬 Ask me about anything [here](https://github.com/neptoo/neptoo/issues)
 
 ##  My Github Stats
