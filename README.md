@@ -17,13 +17,6 @@
 
 ![neptoo profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neptoo&theme=nord_bright)
 
-<p>
-  <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=neptoo&show_icons=true&rank_icon=percentile&count_private=true" />
-</a>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=neptoo&margin-w=15)](https://github.com/neptoo/github-profile-trophy)
 
 
 
